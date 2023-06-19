@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 | I'm Electro
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
